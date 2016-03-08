@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://John-Kovach.github.io
+title: Mr. Strummy presents...
+email: jckovach@yahoo.com
+author: John-Kovach
+description: That which may be useful.
+paginate: 3
+google_analytics: 
